@@ -95,6 +95,12 @@
           "name": "Spring Boot",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "GKE",
+          "type": "technology"
+        }
       }
     ]
   },
