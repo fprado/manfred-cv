@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -14,7 +14,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/04aed552-4f2d-4a0b-bef5-6a137e329be9_unnamed.jpg"
       },
       "location": {
-        "notes": "Andalucia, Spain"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -59,6 +62,24 @@
       },
       {
         "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -72,24 +93,6 @@
       {
         "skill": {
           "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
           "type": "technology"
         }
       }
@@ -122,6 +125,9 @@
           "name": "Terraform",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE"
       ]
     }
   }
