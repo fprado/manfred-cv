@@ -45,7 +45,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "French",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Italian",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -136,6 +149,7 @@
       "preferredRoles": [
         "DevOps & Infrastructure & SRE"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
