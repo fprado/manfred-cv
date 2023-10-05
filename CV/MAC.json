@@ -207,6 +207,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "DevOps & Infrastructure & SRE",
         "Engineering Management"
