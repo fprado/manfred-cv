@@ -209,6 +209,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         }
