@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -29,6 +29,14 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/felixprado/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/fprado"
+      },
+      {
         "type": "other",
         "URL": "http://felixprado.com"
       }
@@ -38,18 +46,22 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "FR",
+        "fullName": "Francés",
         "level": "Limited working proficiency"
       },
       {
         "name": "IT",
+        "fullName": "Italiano",
         "level": "Full professional proficiency"
       }
     ],
@@ -180,12 +192,6 @@
       ],
       "contactMails": [
         "mail@felixprado.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "620720225",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
