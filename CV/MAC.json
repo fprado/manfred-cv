@@ -42,6 +42,37 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Universidad de Málaga",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/77952d4f-f20b-4b86-b1da-fa562c622e7c_universidad_de_malag.jpg",
+            "alt": "universidad_de_malaga_logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Research Assistant",
+            "startDate": "2012-10-01",
+            "finishDate": "2013-07-01",
+            "challenges": [
+              {
+                "description": "ReSCUE project: composition of reliable software in ubiquitous environments.\n\nResearching on Internet of Things (IoT) topics over Web Services (WS-*) and\nService-Oriented Architecure (SOA) at the group Service and Component ENgineering for Internet\nComputing (SCENIC), part of the Software Engineering Research Group (GISUM)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "REST",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
