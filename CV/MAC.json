@@ -46,6 +46,86 @@
     "jobs": [
       {
         "organization": {
+          "name": "Novatec Software Engineering España ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/2c01defc-3d03-4620-be17-1cecc1558664_novatecsoftware_logo.jpg",
+            "alt": "novatecsoftware_logo.jpg"
+          },
+          "URL": "https://www.novatec-gmbh.de/en/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer & Unit Lead",
+            "startDate": "2016-10-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "I contributed to the development, deployment, monitoring, and maintenance of components and applications based on a microservices architecture for a high-profile project within the automotive sector. Our involvement spanned the entire software development lifecycle, from initial requirements gathering to DevOps operations, embracing CI/CD practices.\n\nWorking collaboratively within remote distributed teams, we utilized SCRUM and Kanban methodologies to ensure agile and efficient project management. Regular visits to the company headquarters in Stuttgart facilitated seamless communication and alignment.\n\nKey Technologies Utilized:\n- Java and Kotlin with SpringBoot for robust backend development\n- Databases: DB2 and PostgreSQL for efficient data management\n- Docker and Kubernetes for containerization and orchestration\n- Jenkins and Nexus for continuous integration and delivery\n- Ansible for automated deployment and configuration management\n- Groovy scripting for automation tasks\n- Git for version control\n- Azure and AzureDevOps for cloud infrastructure and project management.\n\nIn addition to my role as a Software Engineer, I assumed the position of Unit Lead in the Granada branch, serving as a liaison between the company and a dedicated team of employees. My responsibilities included tracking and coaching team members in their career paths, managing the budget for salary raises, and fostering a supportive environment where concerns, proposals, and needs are openly addressed to enhance overall satisfaction and company growth."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Azure DevOps",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Nexus",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Ericsson",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/83043f36-39a4-40c8-ae36-2ce54a700fe7_ericsson_logo.jpg",
