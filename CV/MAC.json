@@ -488,7 +488,13 @@
         "Engineering Management"
       ]
     },
-    "status": "openToOffers"
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
