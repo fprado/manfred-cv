@@ -46,6 +46,76 @@
     "jobs": [
       {
         "organization": {
+          "name": "Mindcurv",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/d264e62b-25dc-4fe6-93e2-1bda1e374584_mindcurv_logo.jpg",
+            "alt": "mindcurv_logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Platform and DevOps Engineer",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "As an Platform Engineer, I specialize in crafting robust platforms and tools tailored to meet the diverse needs of development teams. My primary focus lies in streamlining workflows and automating infrastructure deployment processes, empowering teams to work efficiently and autonomously.\n\nI provide extensive support to development teams, particularly in optimizing Continuous Integration/Continuous Deployment (CI/CD) pipelines and implementing Kubernetes solutions. This involves not only configuring manifests and fine-tuning performance but also mentoring team members and conducting workshops on DevOps practices to enhance their skill sets.\n\nMy expertise encompasses a broad array of technologies and tools, including but not limited to:\n- Cloud Platforms: Google Cloud Platform (GCP), Amazon Web Services (AWS).\n- Version Control: GitHub, GitLab CI.\n- Container Orchestration: Docker, Kubernetes.\n- Configuration Management: Helm, Kustomize, KPT, GitOps, ArgoCD.\n- Infrastructure as Code (IaC): Terraform.\n- Identity and Access Management: Keycloak.\n- Monitoring and Observability: Prometheus, Grafana.\n\nContinuously striving for professional growth, I am dedicated to deepening my knowledge in Kubernetes, Terraform, and AWS. I am also eager to explore tools like Backstage, Cillium and further develop my programming skills, particularly in Golang."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Argo CD",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "Keycloak",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Solera",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/92e7ab38-bc27-4eae-a62a-64de38d0b8fb_solera_logo.jpg",
