@@ -46,6 +46,61 @@
     "jobs": [
       {
         "organization": {
+          "name": "Ericsson",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/83043f36-39a4-40c8-ae36-2ce54a700fe7_ericsson_logo.jpg",
+            "alt": "ericsson_logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2013-07-01",
+            "finishDate": "2016-09-01",
+            "challenges": [
+              {
+                "description": "I contributed to the development of SON-OM, a cutting-edge network management system designed for the automated optimization of radio networks. SON-OM is a versatile, multi-vendor product providing support for Ericsson, NSN, Huawei, and Alcatel-Lucent networks across GSM, WCDMA, and LTE technologies. This tool facilitates the extraction of raw data from network OSS, its organization and modeling, and the application of various algorithms to propose network optimizations autonomously.\n\nMy responsibilities encompassed development, testing, analysis, and debugging of the system. Key technologies utilized included Java, MySQL, XML, Maven, Jenkins, Eclipse, SVN and GIT.\n\nOperating within agile methodologies, particularly SCRUM, our teams maintained a dynamic workflow. I served as a Scrum Master for nearly a year, facilitating effective collaboration and ensuring adherence to project timelines and goals."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad de Málaga",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/77952d4f-f20b-4b86-b1da-fa562c622e7c_universidad_de_malag.jpg",
