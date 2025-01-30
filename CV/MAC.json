@@ -46,6 +46,57 @@
     "jobs": [
       {
         "organization": {
+          "name": "Solera",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/92e7ab38-bc27-4eae-a62a-64de38d0b8fb_solera_logo.jpg",
+            "alt": "solera_logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Development Engineer",
+            "startDate": "2021-06-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "I worked on the backend architecture for a robust ecosystem of over a dozen microservices, crucial for a globally utilized mobile application catering to truck drivers. As part of a tight-knit team of two backend developers, our responsibilities encompassed developing new features, maintaining and troubleshooting existing components, and enhancing the monitoring capabilities across our software suite.\n\nAdditionally, we led the seamless migration of these services from Pivotal CloudFoundry to a Kubernetes infrastructure within VMWare Tanzu, meticulously configuring pipelines and ensuring compatibility using Concourse.\n\nKey Technologies Utilized:\n- Java, SpringBoot for robust backend development\n- MySQL and MongoDB for efficient data management\n- Docker for containerization\n- Pivotal CloudFoundry amd VMWare Tanzu and Kubernetes for scalable infrastructure management\n- Concourse for streamlined CI/CD processes\n- Proget and Git for version control and artifact management."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Concourse",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Pivotal Cloud Foundry",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Novatec Software Engineering España ",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/30/2c01defc-3d03-4620-be17-1cecc1558664_novatecsoftware_logo.jpg",
