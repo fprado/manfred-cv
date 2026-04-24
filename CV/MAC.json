@@ -423,13 +423,19 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Comunicación escrita",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Trabajo en equipo",
+          "name": "Inteligencia emocional",
           "type": "practice"
         }
       }
